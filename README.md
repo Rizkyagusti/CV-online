@@ -1,2 +1,2 @@
 # CV-onlineBitlabs
-Challenge I Bootstrap bismillah
+Challenge I Bootstrap 
